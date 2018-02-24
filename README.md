@@ -5,3 +5,4 @@
 - npm init -y
 - npm install --save-dev webpack
 - npm install --save lodash
+- npx webpack src/index.js dist/bundle.js
