@@ -8,3 +8,4 @@
 - npx webpack src/index.js dist/bundle.js
 
 - npx webpack --config webpack.config.js
+- npm run build
