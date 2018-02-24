@@ -9,3 +9,6 @@
 
 - npx webpack --config webpack.config.js
 - npm run build
+
+- npm install --save-dev style-loader css-loader
+- 
