@@ -15,3 +15,4 @@
 - npm install --save-dev csv-loader xml-loader
 
 - npm install --save-dev html-webpack-plugin
+- npm install clean-webpack-plugin --save-dev
