@@ -18,4 +18,4 @@
 - npm install clean-webpack-plugin --save-dev
 
 - npm install --save-dev webpack-dev-server
-- 
+- npm install --save-dev express webpack-dev-middleware
