@@ -16,3 +16,6 @@
 
 - npm install --save-dev html-webpack-plugin
 - npm install clean-webpack-plugin --save-dev
+
+- npm install --save-dev webpack-dev-server
+- 
